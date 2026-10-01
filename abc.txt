@@ -1,0 +1,5 @@
+#!/bin/bash
+
+sudo apt install npm
+sudo apt install nginx
+sudo apt install openjdk-17-jdk -y
